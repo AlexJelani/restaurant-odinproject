@@ -1,0 +1,14 @@
+body,html {
+    height: 100%;
+    /* background-color: aqua; */
+}
+.bgimg {
+    /* background-image: url('/src/assets/imgs/onepage_restaurant.jpg'); */
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+}
