@@ -1,12 +1,15 @@
 body,html {
     height: 100%;
     /* background-color: aqua; */
+    background-image: linear-gradient(rgba(0, 0, 255, 0.5), rgba(255, 255, 0, 0.5)),
+    url("../src/assets/imgs/onepage_restaurant.jpg");
 }
-.bgimg {
-    /* background-image: url('/src/assets/imgs/onepage_restaurant.jpg'); */
+#content bgimg {
+    background-image: url("../src/assets/imgs/onepage_restaurant.jpg");
     min-height: 100%;
     background-position: center;
     background-size: cover;
+   
 }
 
 h1 {
