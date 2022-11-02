@@ -1,1 +1,4 @@
-console.log('This is a test.lol');
+import * as module from "./intial-page-load";
+
+module.intialPageLoad();
+

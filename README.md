@@ -1,5 +1,5 @@
 <-- html -->
-<!-- <div id="content bgimg">
+<!-- <div id="content">
       <h1>Welcome To Jelani's Sweets Shop</h1>
       <div class="right">
         <img
@@ -9,14 +9,14 @@
         />
       </div>
       <div class="left">
-        <h1 class="landingpage">Brownies, Cakes, & Donuts!</h2>
-        <p class="landingpage">Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        <h1 >Brownies, Cakes, & Donuts!</h2>
+        <p >Lorem ipsum dolor sit amet consectetur adipisicing elit.
              Iusto accusamus quisquam alias, quia nihil recusandae assumenda qui explicabo sint 
              fugit nesciunt iste eveniet at quis nisi ipsam natus voluptate modi.</p>
         <h1>Opening Hours</h1>
-        <h2 class="landingpage">monday - friday 10-23 | saturday 14-02</h2>
+        <h2 >monday - friday 10-23 | saturday 14-02</h2>
         <h1>Location</h1>
-        <h2 class="landingpage">42 village St, New York</h2>
+        <h2 >42 village St, New York</h2>
       </div>
     <div class="footer">Jelani's Sweets Shop @2022</div>
     </div> -->
