@@ -1,1 +1,1 @@
-console.log("This is a test.lol");
+(()=>{"use strict";!function(){const e=document.querySelector("#content"),t=document.createElement("h1");t.textContent="Welcome to Jelani's Sweets Shop",e.appendChild(t);const n=document.createElement("img");n.src="./imgs/onepage_restaurant.jpg",n.alt="Image of Restaurant",e.appendChild(n)}()})();
