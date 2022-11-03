@@ -1,5 +1,10 @@
 export function intialPageLoad() {
+
   const contentDiv = document.querySelector("#content");
+
+  //Remove any existing DOM element
+  contentDiv.replaceChildren();
+
   const heading = document.createElement("h1");
   heading.style.color = "white";
   heading.textContent = "Welcome to Jelani's Sweets Shop";
