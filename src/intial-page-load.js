@@ -14,8 +14,9 @@ export function intialPageLoad() {
   para1.textContent = "Brownies, Cakes, & Donuts!";
   para1.classList.add("content-text-style");
   contentDiv.appendChild(para1);
+
   const para2 = document.createElement("p");
-  para2.textContent = "Lorem ipsum dolor sit amet consectetur adipisicing eli";
+  para2.textContent = "Lorem ipsum dolor sit amet consectetur adipisicing eli Lorem ipsum dolor sit amet consectetur adipisicing eli";
   para2.classList.add("content-text-style");
   contentDiv.appendChild(para2);
 
