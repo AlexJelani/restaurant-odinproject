@@ -1,9 +1,13 @@
 body {
-  background-color: rgb(184, 117, 117);
-  margin: 0;
+  min-height:100%;
+  background:url("../assets/imgs/free-sweets-pattern-vector.jpg") rgba(255, 0, 150, 0.3);
+  /* <a href="https://www.vecteezy.com/free-vector/pattern">Pattern Vectors by Vecteezy</a> */
+  background-blend-mode: multiply;
+  background-size:cover; 
+   margin: 0;
   padding: 0;
 }
-img {
+.coverimg {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -68,4 +72,5 @@ footer {
   color: white;
   text-align: center;
   height: 50px;
+  margin: auto;
 }
