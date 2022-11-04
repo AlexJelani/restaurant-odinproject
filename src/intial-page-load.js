@@ -6,7 +6,7 @@ export function intialPageLoad() {
   contentDiv.replaceChildren();
 
   const heading = document.createElement("h1");
-  heading.style.color = "white";
+  heading.style.color = "black";
   heading.textContent = "Welcome to Jelani's Sweets Shop";
   contentDiv.appendChild(heading);
 
@@ -17,41 +17,41 @@ export function intialPageLoad() {
 
   const para1 = document.createElement("h2");
   para1.textContent = "Brownies, Cakes, & Donuts!";
-  para1.classList.add("content-text-style");
+  para1.classList.add("content-text-style-black");
   contentDiv.appendChild(para1);
 
   const para2 = document.createElement("p");
   para2.textContent = "Lorem ipsum dolor sit amet consectetur adipisicing eli Lorem ipsum dolor sit amet consectetur adipisicing eli";
-  para2.classList.add("content-text-style");
+  para2.classList.add("content-text-style-black");
   contentDiv.appendChild(para2);
 
   const para3 = document.createElement("h2");
   para3.textContent = "Opening Hours";
-  para3.classList.add("content-text-style");
+  para3.classList.add("content-text-style-black");
   contentDiv.appendChild(para3);
 
   const para4 = document.createElement("h2");
   para4.textContent = "monday - friday 10-23 | saturday 14-02";
-  para4.classList.add("content-text-style");
+  para4.classList.add("content-text-style-black");
   contentDiv.appendChild(para4);
 
   const para5 = document.createElement("h2");
   para5.textContent = "Location";
-  para5.classList.add("content-text-style");
+  para5.classList.add("content-text-style-black");
   contentDiv.appendChild(para5);
 
   const para6 = document.createElement("h2");
-  para6.classList.add("content-text-style");
+  para6.classList.add("content-text-style-black");
   para6.textContent = "42 village St, New York";
   contentDiv.appendChild(para6);
 
   const para7 = document.createElement("h2");
-  para7.classList.add("content-text-style");
+  para7.classList.add("content-text-style-black");
   para7.textContent = "Phone Number";
   contentDiv.appendChild(para7);
 
   const para8 = document.createElement("h2");
-  para8.classList.add("content-text-style");
+  para8.classList.add("content-text-style-black");
   para8.textContent = "222-1234-5678";
   contentDiv.appendChild(para8);
 
