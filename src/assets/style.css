@@ -13,6 +13,7 @@ img {
   filter: blur(1px);
   opacity: 0.75;
   margin: 25px;
+  margin-top: 5px;
 }
 #content {
   min-height: 100%;
@@ -58,13 +59,13 @@ li {
 
 }
 
-/* .footer {
+footer {
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: burlywood;
+  background-color: purple;
   color: white;
   text-align: center;
   height: 50px;
-} */
+}
