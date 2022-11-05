@@ -4,6 +4,8 @@ import { contact } from "./contact";
 import "./assets/style.css";
 
 intialPageLoad();
+menu();
+contact();
 
 
 //Tab switching module 
@@ -17,4 +19,5 @@ let tabSwitchModule = (function () {
     const contactTab = document.querySelector(".contact");
     contactTab.addEventListener("click", contact);
 
-})();
+})
+tabSwitchModule();
