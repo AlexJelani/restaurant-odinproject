@@ -1,4 +1,4 @@
-import menuImg  from './assets/imgs/jayssweetsmenu.jpg';jj
+import menuImg  from './assets/imgs/jayssweetsmenu.jpg';
 
 export function menu() {
 
