@@ -10,9 +10,8 @@ export function contact() {
   contentDiv.appendChild(heading);
 
   const contactDiv = document.createElement("div");
-  contactDiv.innerHTML = `<form action="https://formsubmit.co/jelanialexander82@gmail.com"      method="POST" >
+  contactDiv.innerHTML = `<form action="https://formsubmit.co/jelanialexander82@gmail.com"method="POST" >
   <label for="name">Name</label> <input type="text" name="name" required> 
-  <input type="hidden" name="_next" value="./thankyou">
   <!-- <input type="hidden" name="_captcha" value="false"> -->
   <label for="email">Email:</label> <input type="email" name="email" required> 
    <label for="message">Message</label> 

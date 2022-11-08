@@ -7,7 +7,7 @@ export function intialPageLoad() {
 
   const heading = document.createElement("h1");
   heading.style.color = "black";
-  heading.textContent = "Welcome to Jelani's Sweets Shop";
+  heading.textContent = "Welcome to Jay's Sweets Shop";
   contentDiv.appendChild(heading);
 
   const rightImage = document.createElement("img");

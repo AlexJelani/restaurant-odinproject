@@ -9,7 +9,7 @@ export function menu() {
 
   const heading = document.createElement("h1");
   heading.style.color = "black";
-  heading.textContent = "Jelani's Sweets Shop Menu";
+  heading.textContent = "Jay's Sweets Shop Menu";
   contentDiv.appendChild(heading);
 
   const menuImage = document.createElement("img");
